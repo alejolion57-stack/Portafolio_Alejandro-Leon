@@ -1,4 +1,4 @@
-# Portafolio_Alejandro-Le-n
+# Portafolio_Alejandro-Leon
 Esta es una muestra de los proyectos realizadon en el boot camp de Analista de datos en la que se encuentran 3 proectos con diferentes herramientas
 Proyecto 1: Análisis de Ventas Walmart
 Herramientas: Hojas de cálculo, Tablas dinámicas, KPIs 
