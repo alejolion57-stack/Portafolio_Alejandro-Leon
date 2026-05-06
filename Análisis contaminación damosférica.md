@@ -16,6 +16,14 @@ por país en Latinoamérica para el equipo de monitoreo ambiental.
 ### Paso 2: Exploración y limpieza de datos en los dos DF "Traffic" y DF "Eco"
 <img width="680" height="415" alt="Screen Shot 2026-05-05 at 3 57 03 PM" src="https://github.com/user-attachments/assets/2d5bdd56-b518-4dea-8db2-94375eab17bf" />
 <img width="657" height="252" alt="Screen Shot 2026-05-05 at 3 57 34 PM" src="https://github.com/user-attachments/assets/20811bae-49a7-4d9e-a555-3c2798d0e132" />
+ 
+  ### Otras acciones en el proceso de limpieza:
+  Una vez descubiertos los factores a corregir, hice las correcciones para estandarizar 
+  los formatos y hacelos más fáciles de comprender
+   - Renombrando columnas a términos más claros
+   - Corregir formatos numéricos para garantizar un análisis veraz
+     
+### Paso 3: extraí la información del año 2004 para filtrar la información y trabajar solo con el período más reciente y relevante.
 
 ### Descubrimiento premilimar : 
 En la estructura del DF traffic, se observa que:
