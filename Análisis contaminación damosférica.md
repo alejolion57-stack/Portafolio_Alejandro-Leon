@@ -1,19 +1,19 @@
 # Monitoreo Automatizado de PM2.5 - Latinoamérica
 
-# Objetivo
+## Objetivo
 Automatizar reportes mensuales de niveles de contaminación PM2.5 
 por país en Latinoamérica para el equipo de monitoreo ambiental.
 
-# Tecnologías
+## Tecnologías
 - Python, Pandas, Jupyter Notebook
 - Limpieza y transformación de datos
 - Análisis estadístico descriptivo
 
-# Proceso
-## Paso 1: Carga y exploración de datasets y librerias para graficar
+## Proceso
+### Paso 1: Carga y exploración de datasets y librerias para graficar
  <img width="709" height="210" alt="Screen Shot 2026-05-05 at 3 54 03 PM" src="https://github.com/user-attachments/assets/732f7433-d897-4e94-b963-b1cc0446569b" />
 
-## Paso 2: Exploración y limpieza de datos en los dos DF "Traffic" y DF "Eco"
+### Paso 2: Exploración y limpieza de datos en los dos DF "Traffic" y DF "Eco"
 <img width="680" height="415" alt="Screen Shot 2026-05-05 at 3 57 03 PM" src="https://github.com/user-attachments/assets/2d5bdd56-b518-4dea-8db2-94375eab17bf" />
 <img width="657" height="252" alt="Screen Shot 2026-05-05 at 3 57 34 PM" src="https://github.com/user-attachments/assets/20811bae-49a7-4d9e-a555-3c2798d0e132" />
 
@@ -29,7 +29,8 @@ En la estructura del DF eco, se observa que:
 
 
 
-# Resultados
+### Resultados
 - Reporte automatizado que reduce tiempo de análisis de horas a minutos
 - Identificación de México como el país con niveles críticos de PM2.5
 - Estandarización del proceso.Reproducible y documentado.
+
