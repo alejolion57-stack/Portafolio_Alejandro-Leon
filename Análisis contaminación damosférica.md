@@ -53,7 +53,7 @@ Combino la información de tráfico y economía en un solo DataFrame para analiz
 
 # Graficación de resultados para el análisis
 <img width="551" height="148" alt="Screen Shot 2026-05-06 at 10 52 05 AM" src="https://github.com/user-attachments/assets/111a9b30-c188-498a-b37c-9d9a52a39044" />
-
+<img width="720" height="532" alt="Screen Shot 2026-05-06 at 10 53 31 AM" src="https://github.com/user-attachments/assets/79558e22-91fd-465c-aef0-1bea7c7fd831" />
 
 
 <img width="782" height="194" alt="Screen Shot 2026-05-06 at 10 49 24 AM" src="https://github.com/user-attachments/assets/cf813d77-f6d1-4744-b98d-1a8b605efd64" />
