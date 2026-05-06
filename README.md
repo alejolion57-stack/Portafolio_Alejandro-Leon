@@ -1,8 +1,4 @@
-# Muestra de proyectos Bootcamp Analista de datos - Tripleten 2026
-A continuación podrás ver una muestra de **mis primeros 2 proyectos** como analista de datos en formación:
-
-
-## Proyecto 1: Análisis de eficiencia de ventas — Walmart
+# Análisis de eficiencia de ventas — Walmart
 ### Objetivo
 Optimizar presupuesto e inventario mediante análisis de eficiencia de tiendas, 
 participación de departamentos y volatilidad de ventas en 2012.
