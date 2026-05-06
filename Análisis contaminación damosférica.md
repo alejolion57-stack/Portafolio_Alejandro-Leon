@@ -9,7 +9,16 @@
 - Limpieza y transformación de datos
 - Análisis estadístico descriptivo
 
-## Proceso
+## Metodología
+1.Conversión de variables mal tipadas: Unemployment_pct → eliminación de %
+pm25 → cambio de coma a punto decimal
+2. Estandarización de nombres de columnas
+3. Validación de valores nulos 
+4. Integración de datos. Se trabajó a nivel de ciudad–año 2024
+5 Validación visual: Se utilizarono boxplotpara observar el comportamiento de los minutos de congestion JamsDelay, un histograma que muestra la distribución del PIB por ciudad en el 2024 y un ráfico de barras para comparar jams_delay y city_gdp_capita por ciudad.
+
+# Proceso paso a paso
+
 ### Paso 1: Carga y exploración de datasets y librerias para graficar
  <img width="709" height="210" alt="Screen Shot 2026-05-05 at 3 54 03 PM" src="https://github.com/user-attachments/assets/732f7433-d897-4e94-b963-b1cc0446569b" />
 
@@ -59,24 +68,44 @@ Combino la información de tráfico y economía en un solo DataFrame para analiz
 <img width="782" height="194" alt="Screen Shot 2026-05-06 at 10 49 24 AM" src="https://github.com/user-attachments/assets/cf813d77-f6d1-4744-b98d-1a8b605efd64" />
 <img width="602" height="392" alt="Screen Shot 2026-05-06 at 10 50 19 AM" src="https://github.com/user-attachments/assets/e06b81ec-fbe7-45b3-b2d2-241f5087bc7a" />
 
+<img width="1003" height="460" alt="Screen Shot 2026-05-06 at 11 10 30 AM" src="https://github.com/user-attachments/assets/794d5fc0-c8cd-4740-8b66-65f6d0b68617" />
+<img width="1017" height="511" alt="Screen Shot 2026-05-06 at 11 10 41 AM" src="https://github.com/user-attachments/assets/d8a831c7-f25b-4ed4-964d-453e81ec6eff" />
 
 
-**Recomendaciones**  
+# Hallazgos iniciales:
+1. Se observa una relación inversa general: a mayor congestión (índices de tráfico, 
+   retrasos y tiempos de viaje), menor PIB per cápita.
 
-Ciudades prioritarias para inversión:
+ 2. Las ciudades latinoamericanas como: Bogotá, Lima y Mexico City concentran altos niveles 
+    de congestión y menores niveles de productividad relativa.
+
+ 3. En contraste, ciudades desarrolladas como London, Berlin o Tokyo muestran: 1.Mejor 
+    balance entre movilidad y productividad. 2.Mayor PIB per cápita incluso con niveles 
+    moderados de tráfico.
+
+ 4. Mexico City Congestión extremadamente alta PIB per cápita no tan bajo como se 
+    esperaría. Estudiar el posible efecto del tamaño económico y centralización
+
+ 5. Buenos Aires Congestión media-alta PIB relativamente alto dentro de la región Indica 
+    mayor resiliencia económica o mejor infraestructura relativa
+
+
+# **Recomendaciones**  
+
+#### Ciudades prioritarias para inversión:
 - Las ciudades que deben priorizarse son Bogotá (en primerísimo lugar) seguido por  Lima, dos ciudades que presentan la combinación más crítica de alta congestión y baja productividad económica, lo que indica un fuerte impacto negativo del tráfico sobre el desempeño económico. 
 
 - En segundo nivel, Mexico City también requiere atención estratégica debido a su escala, donde pequeñas mejoras pueden generar beneficios masivos.
 
 - Por su parte, Buenos Aires debe enfocarse en optimización más que en transformación estructural.
 
-Validación de fuentes:
+#### Validación de fuentes:
 Es fundamental validar la calidad y comparabilidad de las fuentes utilizadas, especialmente en indicadores de tráfico y PIB per cápita. Se recomienda asegurar que los datos de congestión provengan de metodologías consistentes y que el PIB esté ajustado por paridad de poder adquisitivo, para evitar comparaciones sesgadas entre ciudades como Bogotá, Lima y Buenos Aires.
 
-Análisis adicionales requeridos:
+#### Análisis adicionales requeridos:
 Para fortalecer los hallazgos, es necesario realizar análisis más robustos como modelos de regresión que cuantifiquen el impacto del tráfico sobre el PIB, así como incorporar series de tiempo que permitan identificar tendencias. También se recomienda incluir variables estructurales como informalidad laboral, uso del transporte público y niveles de inversión en infraestructura, especialmente en ciudades como Bogotá y Lima donde estos factores son determinantes.
 
-Propuestas de inversión:
+### Propuestas de inversión:
 Las inversiones deben enfocarse en transporte público masivo (metro, BRT), infraestructura vial inteligente (semáforos adaptativos, gestión en tiempo real) y políticas de gestión de demanda como teletrabajo y descentralización urbana. En ciudades como Bogotá y Lima, estas acciones pueden traducirse directamente en mejoras de productividad, mientras que en Buenos Aires el enfoque debe ser mantener la eficiencia del sistema actual y evitar su deterioro.
 
 
@@ -85,4 +114,4 @@ Las inversiones deben enfocarse en transporte público masivo (metro, BRT), infr
 - Identificación de México como el país con niveles críticos de PM2.5
 - Estandarización del proceso.Reproducible y documentado.
 
-# Contacto
+## Contacto
