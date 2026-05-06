@@ -11,7 +11,7 @@ Optimización de presupuesto e inventario mediante análisis de eficiencia por t
 Identificación de tiendas 25% más eficientes + recomendaciones de redistribución de inventario
 Google Sheets -KPIs -Tablas dinámicas
 
-# 🌍 Monitoreo de PM2.5 — Latinoamérica 3
+# 🌍 Análisis contaminación admosférica - LATAM
 Automatización de reportes mensuales de contaminación atmosférica por país en Latinoamérica para equipos de monitoreo ambiental.
 Reducción del tiempo de análisis de horas a minutos · proceso reproducible y documentado
 Python - Pandas -Jupyter Notebook
