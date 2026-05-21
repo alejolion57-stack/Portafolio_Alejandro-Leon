@@ -56,13 +56,8 @@ Síntesis de hallazgos en formato ejecutivo con problemas detectados, caracteriz
 ---
 
 ## ▶️ Cómo Ejecutar el Notebook
-
-### Google Colab 
  
    👉 [Abrir en Google Colab](https://colab.research.google.com/github/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
-
-
-### Repositorio en Github
 
  👉 [Abrir en Github](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
 
