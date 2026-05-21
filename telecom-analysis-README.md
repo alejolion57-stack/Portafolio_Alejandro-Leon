@@ -62,35 +62,10 @@ Síntesis de hallazgos en formato ejecutivo con problemas detectados, caracteriz
 1. Abre el siguiente enlace:  
    👉 [Abrir en Google Colab](https://colab.research.google.com/github/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
 
-2. En Colab, sube los archivos de datos (`plans.csv`, `users_latam.csv`, `usage.csv`) o monta tu Google Drive si los tienes allí.
 
-3. Ajusta las rutas de carga según dónde subiste los archivos:
-   ```python
-   plans = pd.read_csv('/content/plans.csv')
-   users = pd.read_csv('/content/users_latam.csv')
-   usage = pd.read_csv('/content/usage.csv')
-   ```
+### Opción B — Repositorio en Github
 
-4. Ejecuta las celdas en orden con **Runtime → Run all**.
-
-### Opción B — Entorno local (Jupyter)
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon.git
-   cd Portafolio_Alejandro-Leon
-   ```
-
-2. Instala las dependencias:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-
-3. Abre el notebook:
-   ```bash
-   jupyter notebook telecom-analysis.ipynb
-   ```
-
+ 👉 [Abrir en Github](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
 ---
 
 ## 🔁 Guía de Reproducción
