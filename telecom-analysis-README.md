@@ -65,7 +65,7 @@ Síntesis de hallazgos en formato ejecutivo con problemas detectados, caracteriz
 
 ### Repositorio en Github
 
- 👉 [Abrir en Github]((https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
+ 👉 [Abrir en Github](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/telecom-analysis.ipynb)
 
 
 ## 🔁 Guía de Reproducción
