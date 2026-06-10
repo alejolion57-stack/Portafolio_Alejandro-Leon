@@ -11,6 +11,8 @@ Un director creativo con pasíon por el análisis de datos. Un analista de datos
 
 **🛠️ Así va mi stack técnico**
 -
+<div align="leftd">
+
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
