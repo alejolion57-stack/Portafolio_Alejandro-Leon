@@ -40,7 +40,8 @@ Optimización de presupuesto e inventario mediante análisis de eficiencia de ti
 
 ---
 
-### 🛒 Optimización de embudo de conversión — E-commerce
+### 📊 Análisis de eficiencia de ventas — Walmart
+🛒 Optimización de embudo de conversión — E-commerce
 `SQL` &nbsp;·&nbsp; `CTEs` &nbsp;·&nbsp; `Funnel Analysis`
 
 Análisis del customer journey completo desde primera visita hasta compra para identificar puntos de fuga en el embudo de conversión.
