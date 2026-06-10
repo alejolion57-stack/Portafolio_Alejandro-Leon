@@ -1,5 +1,8 @@
-# Análisis de contaminación admosférica - Automatizado de PM2.5 - Latinoamérica
+---
+**Análisis de contaminación admosférica - Automatizado de PM2.5 - Latinoamérica**
+-
 
+---
 ## Objetivos
 1. Obtener una vista consolidada del tráfico promedio por ciudad y año, para analizar patrones generales sin depender de datos diarios.
 2. Automatizar reportes mensuales de niveles de contaminación PM2.5 por país en Latinoamérica para el equipo de monitoreo ambiental.
