@@ -124,7 +124,7 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 - **Región y tipo de dispositivo son variables independientes** (V de Cramér ≈ 0.01) — no se requiere diferenciación de UX por zona geográfica.
 
 ---
-#💻 Experimento A/B — Landing Page
+# 💻 Experimento A/B — Landing Page
 `Python 3`·`pandas` · `numpy` · `matplotlib` · `seaborn` ·`scipy (ttest_ind, levene, chi2_contingency)` ·`statsmodels (proportions_ztest)`
 
 
