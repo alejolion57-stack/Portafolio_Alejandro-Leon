@@ -1,4 +1,7 @@
 [README.md](https://github.com/user-attachments/files/28814504/README.md)
+
+---
+
 **Soy Alejandro León** 
 Un director creativo con pasíon por el análisis de datos. Un analista de datos con experiencia en estrategia y creatividad. 
 
@@ -16,7 +19,7 @@ Un director creativo con pasíon por el análisis de datos. Un analista de datos
 
 ---
 
-## 📁 Proyectos del bootcamp Tripleten
+## 📁 Proyectos del bootcamp con Tripleten
 Soy apenas un aprendiz en el mundo de la sitematización para análisis de datos y estos son mis primeros pinos:
 
 ### 📊 Análisis de eficiencia de ventas — Walmart
