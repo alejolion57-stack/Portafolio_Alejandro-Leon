@@ -3,6 +3,8 @@
 ---
 
 **Soy Alejandro León** 
+-
+
 Un director creativo con pasíon por el análisis de datos. Un analista de datos con experiencia en estrategia y creatividad. 
 
 ---
