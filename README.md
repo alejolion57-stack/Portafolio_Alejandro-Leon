@@ -125,6 +125,61 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 - **Región y tipo de dispositivo son variables independientes** (V de Cramér ≈ 0.01) — no se requiere diferenciación de UX por zona geográfica.
 
 ---
+# 🧪 Experimento A/B — Landing Page
+`Python 3`; `pandas`; `numpy`;
+- matplotlib`; `seaborn`; `scipy (ttest_ind, levene, chi2_contingency)`; `statsmodels (proportions_ztest)`
+
+
+**📋 Descripción del proyecto:** Este proyecto evalúa el rendimiento de dos versiones de una landing page (A y B) a partir de datos de 40,000 usuarios expuestos durante enero de 2026. El análisis compara la tasa de conversión, el gasto promedio y el comportamiento según fuente de tráfico y tipo de usuario, aplicando pruebas estadísticas para validar cada conclusión.
+
+---
+
+**Etapas del análisis:** 
+1. **Carga y validación de datos** — revisión de tipos, nulos, duplicados y calidad general.
+2. **Gasto promedio (A vs B)** — prueba de Levene + prueba t de Student (Welch).
+3. **Tasa de conversión (A vs B)** — prueba z de proporciones.
+4. **Fuente de tráfico y conversión** — prueba Chi-cuadrada de independencia.
+5. **Tipo de usuario y conversión** — prueba Chi-cuadrada de independencia.
+6. **Visualización de resultados** — gráficos de volumen y proporciones por segmento.
+
+Nivel de significancia utilizado: **α = 0.05**
+
+---
+
+## 📈 Resultados principales
+
+**Página A vs Página B**
+
+| Métrica | Página A | Página B | Diferencia |
+|---|---|---|---|
+| Tasa de conversión | 12.57% | 15.96% | +3.39 pp ✅ |
+| Gasto promedio por cliente | $61.09 | $68.75 | +$7.66 ✅ |
+
+Ambas diferencias son **estadísticamente significativas** (p < 0.0001).
+
+**Fuente de tráfico**
+
+| Canal | Tasa de conversión |
+|---|---|
+| Email | ~15.0% |
+| Ads | ~14.7% |
+| Organic | Menor tasa, mayor volumen absoluto |
+| Referral | Tasa más baja |
+
+**Existe asociación significativa** entre fuente de tráfico y conversión (χ² = 8.66, p = 0.034).
+
+**Tipo de usuario:** Las tasas de conversión de Nuevos (14.36%) y Recurrentes (14.09%) son prácticamente idénticas. **No se encontró asociación significativa** (p = 0.474).
+
+---
+
+**💡 Recomendaciones:**
+1. **Implementar la Página B.** Supera a la A en conversión y en gasto promedio por cliente.
+2. **Priorizar Email y Ads** en la estrategia de adquisición por su mayor tasa de conversión relativa.
+3. **Mantener Organic** como fuente de volumen de conversiones absolutas.
+4. **No es necesario personalizar la experiencia** por tipo de usuario; la landing funciona de manera uniforme para nuevos y recurrentes.
+
+
+---
 
 **Contacto**
 -
