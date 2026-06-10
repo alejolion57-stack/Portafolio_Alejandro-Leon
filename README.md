@@ -1,7 +1,9 @@
 **Este es el portafolio de mi formación en análisis de datos** 
 -
 
-**Me llamo Alejandro León.** Soy un director creativo y de estrategia que  ha trabajado con marcas de consumo masivo por más de 19 años y que en una esas resoluciones locas de año nuevo decidió expandir su cabeza y alimentar sus conocimientos en el mundo de la: adquisición, depuración y presentación de resultados. Esta es una muestra de un camino que apenas compieza.
+**Me llamo Alejandro León.** Soy director creativo y estratega, con más de 19 años de experiencia trabajando para marcas de consumo masivo. En una de esas resoluciones de Año Nuevo que parecen una locura, decidí expandir mi forma de pensar y adentrarme en el mundo de los datos: su adquisición, depuración, análisis y presentación de resultados.
+
+Este portafolio es una muestra de ese proceso de aprendizaje y evolución profesional; un camino que apenas comienza, pero que ya me ha permitido descubrir nuevas formas de entender a las personas, los negocios y las oportunidades que surgen cuando la creatividad y los datos trabajan juntos.
 
 ---
 
