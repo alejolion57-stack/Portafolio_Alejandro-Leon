@@ -44,9 +44,9 @@ Soy apenas un aprendiz en el mundo de la sitematización para análisis de datos
 🛒 Optimización de embudo de conversión — E-commerce
 `SQL` &nbsp;·&nbsp; `CTEs` &nbsp;·&nbsp; `Funnel Analysis`
 
-Análisis del customer journey completo desde primera visita hasta compra para identificar puntos de fuga en el embudo de conversión.
+**Objetivo del proyecto:** Análisar el customer journey completo desde primera visita hasta compra para identificar puntos de fuga en el embudo de conversión.
 
-**Etapas analizadas:**
+**Etapas del análisis:**
 1. Descubrimiento (`first_visit`)
 2. Interés (`select_item` / `select_promotion`)
 3. Conversión (compra)
@@ -60,7 +60,7 @@ Análisis del customer journey completo desde primera visita hasta compra para i
 
 **Objetivo del proyecto:** Automatización de reportes mensuales de niveles de contaminación PM2.5 por país en Latinoamérica para equipos de monitoreo ambiental.
 
-**Proceso:**
+**Etapas del análisis:**
 1. Carga y exploración de datasets
 2. Limpieza de valores faltantes y duplicados
 3. Cálculo de métricas (máx, mín, promedio) por país
@@ -101,8 +101,7 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 
 ---
 
-## 🔬 Etapas del análisis
-
+**Etapas del análisis:**
 1. **Carga y exploración inicial:** Carga del dataset, revisión de estructura, tipos de datos y valores faltantes. El dataset no presentó nulos.
 
 2. **Preparación de datos y supuestos:** Corrección del tipo de dato de `edad` (de `float64` a `int64`). Clasificación de variables en numéricas, binarias y categóricas. Documentación de supuestos metodológicos: uso de Pearson para variables numéricas, Spearman para relaciones monótonas, correlación punto-biserial para variable numérica vs. binaria, y V de Cramér para variables categóricas.
@@ -117,7 +116,7 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 
 ---
 
-## 📊 Principales Hallazgos:
+**Principales Hallazgos:**
 
 - **`compras_mes` es el factor más fuertemente asociado con `ingreso_anual`** (Pearson r ≈ 0.97), una relación casi perfecta que sugiere que ambas variables capturan el mismo constructo de valor del cliente.
 - **`visitas_mes` tiene una correlación moderada con `ingreso_anual`** (r ≈ 0.34) — las visitas son necesarias pero no suficientes para generar ingreso.
