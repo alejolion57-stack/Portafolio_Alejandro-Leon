@@ -22,8 +22,8 @@ Este portafolio es una muestra de ese proceso de aprendizaje y evolución profes
 ---
 
 ## 📁 Proyectos del bootcamp con Tripleten
-Soy apenas un aprendiz en el mundo de la sitematización para análisis de datos y estos son mis primeros pinos:
 
+---
 ### 📊 Análisis de eficiencia de ventas — Walmart
 `Google Sheets` &nbsp;·&nbsp; `Tablas dinámicas` &nbsp;·&nbsp; `KPIs`
 
