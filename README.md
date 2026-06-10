@@ -1,7 +1,7 @@
-**Este es el resumen de mi portafolio formándome como analísta de datos** 
+**Un resumen del portafolio de mi formación enanálisis de datoss** 
 -
 
-**Me llamo Alejandro León.** Soy un director creativo con pasíon por el análisis de datos. Un analista de datos con experiencia en estrategia y creatividad. 
+**Me llamo Alejandro León.** Soy un director creativo y de estrategia que por más de 19 años ha trabajado con marcas de consumo masivo hasta que en esas resoluciones locas de año nuevo decidió expandir su cabeza y alimentar sus habilidades entendiendo el mundo de la adquisición, depuración y presentación de resultados. Esta es una muestra de un camino que apenas compieza.
 
 ---
 
