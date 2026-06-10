@@ -1,4 +1,4 @@
-# 🧪 Experimento A/B — Landing Page
+# 💻Experimento A/B — Landing Page
 
 Análisis estadístico de un experimento A/B sobre dos versiones de una página de inicio, orientado a respaldar una decisión de negocio basada en datos.
 
