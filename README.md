@@ -125,7 +125,7 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 
 ---
 # 🧪 Experimento A/B — Landing Page
-`Python 3`; `pandas`; `numpy`; `matplotlib`; `seaborn`; `scipy (ttest_ind, levene, chi2_contingency)`; `statsmodels (proportions_ztest)`
+`Python 3`;`pandas`; `numpy`; `matplotlib`; `seaborn`; `scipy (ttest_ind, levene, chi2_contingency)`; `statsmodels (proportions_ztest)`
 
 
 **📋 Descripción del proyecto:** Este proyecto evalúa el rendimiento de dos versiones de una landing page (A y B) a partir de datos de 40,000 usuarios expuestos durante enero de 2026. El análisis compara la tasa de conversión, el gasto promedio y el comportamiento según fuente de tráfico y tipo de usuario, aplicando pruebas estadísticas para validar cada conclusión.
