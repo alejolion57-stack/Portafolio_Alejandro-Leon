@@ -1,7 +1,5 @@
 # 🛒 Análisis de Comportamiento de Clientes — NovaRetail+
 
-> Proyecto de análisis exploratorio desarrollado como parte del bootcamp de Analista de Datos de **TripleTen**.
-
 ---
 
 ## 🎯 Objetivo del Proyecto
