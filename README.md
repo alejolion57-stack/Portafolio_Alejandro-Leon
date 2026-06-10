@@ -117,7 +117,6 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 ---
 
 **Principales Hallazgos:**
-
 - **`compras_mes` es el factor más fuertemente asociado con `ingreso_anual`** (Pearson r ≈ 0.97), una relación casi perfecta que sugiere que ambas variables capturan el mismo constructo de valor del cliente.
 - **`visitas_mes` tiene una correlación moderada con `ingreso_anual`** (r ≈ 0.34) — las visitas son necesarias pero no suficientes para generar ingreso.
 - **`gasto_publicidad_dirigida` se asocia moderadamente con `visitas_mes`** (r ≈ 0.58) — la publicidad atrae tráfico, pero no garantiza conversión.
@@ -126,8 +125,7 @@ El análisis es de tipo **correlacional (exploratorio)** — identifica patrones
 
 ---
 # 🧪 Experimento A/B — Landing Page
-`Python 3`; `pandas`; `numpy`;
-- matplotlib`; `seaborn`; `scipy (ttest_ind, levene, chi2_contingency)`; `statsmodels (proportions_ztest)`
+`Python 3`; `pandas`; `numpy`; `matplotlib`; `seaborn`; `scipy (ttest_ind, levene, chi2_contingency)`; `statsmodels (proportions_ztest)`
 
 
 **📋 Descripción del proyecto:** Este proyecto evalúa el rendimiento de dos versiones de una landing page (A y B) a partir de datos de 40,000 usuarios expuestos durante enero de 2026. El análisis compara la tasa de conversión, el gasto promedio y el comportamiento según fuente de tráfico y tipo de usuario, aplicando pruebas estadísticas para validar cada conclusión.
